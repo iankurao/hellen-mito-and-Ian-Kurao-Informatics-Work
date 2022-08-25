@@ -1,6 +1,7 @@
-#usersinput
+#promptuser
 camelCase =  input("camelCase:")
-#print "snake_case"
+
+#print
 print("snake_case:",end="")
 
 #loop through every letter

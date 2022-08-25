@@ -1,13 +1,13 @@
-#Get user input
+#prompt user to input datas
 answer = input("Greeting:")
 
-new_answer = answer.lower().strip()
+character = answer.lower().strip()
 
 #if the answer has hello print $0
-if 'hello' in new_answer:
+if 'hello' in character:
     print("$0")
-#chech if answer starts with 'h, print$20
-elif 'h' == new_answer[0]:
+#check if answer starts with 'h, print$20
+elif 'h' == character[0]:
     print("$20")
 else:
     print("$100")
