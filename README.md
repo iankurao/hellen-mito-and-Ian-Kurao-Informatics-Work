@@ -2,7 +2,7 @@
 
 This is the Work of :
 
-Hellen Mitto-  AIIQ/00
+Hellen Mito-  AIIQ/00
 
 And 
 
